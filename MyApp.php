@@ -7,7 +7,7 @@ class Product
 	private $state;
 	private $vip;
     private $price;
-	private $veijo1;
+	private $veijo123;
 	
     private $amount; //Amount in storage
 
