@@ -4,6 +4,7 @@
 class Product
 {
     private $name;
+	private $state;
     private $price;
     private $amount; //Amount in storage
 
