@@ -7,6 +7,7 @@ class Product
 	private $state;
 	private $vip;
     private $price;
+	private $veijo;
     private $amount; //Amount in storage
 
     public  function __construct($name, $price, $amount)
